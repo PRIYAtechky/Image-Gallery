@@ -1,20 +1,16 @@
 # 🖼️ Image Gallery
 
-## 🌐 Overview
+##  Overview
 A responsive image gallery web page built with **HTML** and **CSS**, featuring images from **Picsum** and styled with
 the 'Mochiy Pop One' font.
 
-
-<img width="20%" src="https://images.emojiterra.com/mozilla/1024px/1f5bc.png"> <img width="18%" src="https://emojigraph.org/media/joypixels/framed-picture_1f5bc-fe0f.png">  <img width="20%" src="https://images.emojiterra.com/google/android-nougat/512px/1f5bc.png">    <img width="18%" src="https://play-lh.googleusercontent.com/wmS45GoZ5dTuAH-Se374TcCVLWiDyImjYMSKuconDYD7ec_lsF859RcYq4i6S6tW5fc=w240-h480-rw"> 
-
-
-## ✨ Features
-1. **📱 Responsive Design**: Adjusts to different screen sizes.
-2. **🌑 Dark Theme**: Background color is dark red with white text for contrast.
-3. **🔤 Google Fonts**: Uses 'Mochiy Pop One' from Google Fonts.
-4. **📸 Images from Picsum**: Showcases random images from Picsum.
+## Features
+1. **Responsive Design**: Adjusts to different screen sizes.
+2. **Dark Theme**: Background color is dark red with white text for contrast.
+3. **Google Fonts**: Uses 'Mochiy Pop One' from Google Fonts.
+4. **Images from Picsum**: Showcases random images from Picsum.
    
-## ⚙️ Technologies Used
+##  Technologies Used
    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/google-fonts.png" alt="google-fonts"/>
   
 - **HTML**: Markup language used to structure the content.
